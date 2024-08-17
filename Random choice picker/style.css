@@ -1,0 +1,43 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    font-family:"Comic Sans MS" ;
+}
+
+body {
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    flex-direction: column;
+    height: 100vh;
+    overflow: hidden;
+    background-color:aquamarine ;
+}
+
+h3 {
+    text-align: center;
+}
+
+textarea {
+    width: 500px;
+    height: 100px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    padding: 5px;
+    font-size: 15px;
+}
+
+.tag {
+    background-color: orange;
+    color: white;
+    border-radius: 50px;
+    padding: 7px;
+    display: inline-block;
+    font-size: 15px;
+    margin: 0px 5px 10px 0px ;
+}
+
+.tag.highlight {
+    background-color: darkblue;
+}

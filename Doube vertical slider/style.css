@@ -1,0 +1,95 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+body {
+    text-align: center;
+    justify-content: center;
+    height: 100vh;
+    font-family: "Comic Sans MS";
+    overflow: hidden;
+}
+
+.container {
+    position: relative;
+    overflow: hidden;
+    width: 100vw;
+    height: 100vh;
+}
+
+.left-slider {
+    width: 35%;
+    height: 100%;
+    position: absolute;
+    top: 0;
+    left: 0;
+    transition: transform .5s ease-in-out;
+}
+
+.left-slider>div {
+    height: 100%;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    color: white;
+}
+
+.left-slider h1 {
+    font-size: 40px;
+    margin-bottom: 10px;
+    margin-top: -30px;
+}
+
+.right-slider {
+    width: 100%;
+    position: absolute;
+    top: 0;
+    left: 35%;
+    width: 65%;
+    transition: transform .5s ease-in-out;
+}
+
+.right-slider>div {
+    height: 917px;
+    width: 1500px;
+}
+
+button {
+    background-color: white;
+    border: none;
+    color: grey;
+    cursor: pointer;
+    font-size: 20px;
+    padding: 15px;
+}
+
+button:hover {
+    color: black;
+}
+
+button:focus {
+    outline: none;
+}
+
+.container .action-buttons button {
+    position: absolute;
+    left: 35%;
+    top: 50%;
+    z-index: 100;
+}
+
+.container .action-buttons .up-button {
+    transform: translateY(-100%);
+    border-top-right-radius: 15px;
+    border-bottom-right-radius: 15px;
+}
+
+.container .action-buttons .down-button {
+    transform: translateX(-100%);
+    border-top-left-radius: 15px;
+    border-bottom-left-radius: 15px;
+}
