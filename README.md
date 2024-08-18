@@ -1,6 +1,6 @@
 # Mini Projects
 
-Welcome to my collection of mini projects built using HTML, CSS, and JavaScript. Each project showcases different techniques and features that can be integrated into larger web applications. Feel free to explore and integrate these into your projects!
+Welcome to my collection of mini-projects built using HTML, CSS, and JavaScript. Each project showcases different techniques and features that can be integrated into larger web applications. Feel free to explore and integrate these into your projects!
 
 ## Projects
 
@@ -13,6 +13,8 @@ This project features a picture with a loading percentage that progresses from 0
 - **Integration:** Easily adaptable for use in various web applications.
 - **Use Case:** Can be used in image-heavy sites where loading times must be masked creatively.
 
+  ![Logo](Demo_images/mini-project-1.png)
+
 ### 2. Double Vertical Slide
 
 In this project, you'll find images with their related names, displayed with vibrant background colors. The buttons allow you to slide the images both vertically and horizontally with smooth animations.
@@ -22,6 +24,8 @@ In this project, you'll find images with their related names, displayed with vib
 - **Animation Effects:** Smooth transitions enhance the user experience.
 - **Customizable:** Background colors and animations can be easily modified to fit different themes.
 - **Use Case:** Ideal for portfolios, galleries, or any content that benefits from visual navigation.
+
+  ![Logo](Demo_images/mini-project-2.png)
 
 ### 3. Random Choice Picker
 
@@ -33,6 +37,10 @@ This project lets users enter multiple choices, separated by commas, and randoml
 - **Flexibility:** Can be used for games, decision-making, or any scenario where randomness adds excitement.
 - **Use Case:** Great for creating interactive experiences, such as a "spin the wheel" game or a decision-making tool.
 
+  ![Logo](Demo_images/mini-project-3.1.png)
+  ![Logo](Demo_images/mini-project-3.2.png)
+  ![Logo](Demo_images/mini-project-3.3.png)
+
 ### 4. Live User Filter
 
 Using the Randomuser [API](https://randomuser.me/), this project fetches random user information such as name, city, country, and images. It includes a search feature to filter users by name, city, or country, with the ability to search in both uppercase and lowercase.
@@ -43,6 +51,9 @@ Using the Randomuser [API](https://randomuser.me/), this project fetches random 
 - **Responsive Design:** Adapts to different screen sizes, ensuring a seamless experience on any device.
 - **Use Case:** Useful for building directories, contact lists, or any application requiring user data presentation and filtering.
 
+  ![Logo](Demo_images/mini-project-4.1.png)
+  ![Logo](Demo_images/mini-project-4.2.png)
+
 ### 5. Content Placeholder
 
 It is a simple yet effective project that features a card with user details. When the page is refreshed, the card loads with a smooth animation before displaying the user details.
@@ -52,6 +63,9 @@ It is a simple yet effective project that features a card with user details. Whe
 - **Simplicity:** Easy to implement and integrate into larger projects.
 - **Customizable:** The card's content and animation can be adjusted to fit different use cases.
 - **Use Case:** Ideal for loading screens, placeholders for dynamic content, or skeleton UI patterns.
+
+  ![Logo](Demo_images/mini-project-5.1.png)
+  ![Logo](Demo_images/mini-project-5.2.png)
 
 ## Getting Started
 
