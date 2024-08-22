@@ -81,8 +81,6 @@ It is a simple yet effective project that features a card with user details. Whe
     ![Logo](Demo_images/mini-project-6.2.png)
     ![Logo](Demo_images/mini-project-6.3.png)
 
-
-
 ## Getting Started
 
 To explore these projects locally:
