@@ -67,6 +67,22 @@ It is a simple yet effective project that features a card with user details. Whe
   ![Logo](Demo_images/mini-project-5.1.png)
   ![Logo](Demo_images/mini-project-5.2.png)
 
+  ### 6. Gallery
+
+  This project is a responsive image gallery that adapts seamlessly to different screen sizes. The gallery displays images in an organized format, ensuring they look great on any device.
+
+  - **Responsive Design:** The gallery layout adjusts dynamically to various screen sizes, providing an optimal viewing experience on both desktop and mobile devices.
+  - **Image Handling:** Images are displayed in a responsive format, scaling appropriately to maintain quality and clarity.
+  - **User-Friendly Interface:** The gallery is designed to be easy to navigate, with a clean and intuitive layout.
+  - **Customization:** The gallery’s layout, styling, and image handling can be customized to suit different projects or preferences.
+  - **Use Case:** Perfect for portfolios, product showcases, or any website that needs a visually appealing way to display images.
+ 
+    ![Logo](Demo_images/mini-project-6.1.png)
+    ![Logo](Demo_images/mini-project-6.2.png)
+    ![Logo](Demo_images/mini-project-6.3.png)
+
+
+
 ## Getting Started
 
 To explore these projects locally:
