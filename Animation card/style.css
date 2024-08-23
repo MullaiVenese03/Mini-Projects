@@ -1,0 +1,115 @@
+body {
+    padding: 0;
+    margin: 0;
+    background-color: black;
+}
+
+.container {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    gap: 40px;
+    margin-top: 200px;
+}
+
+.card {
+    background: rgb(32, 32, 32);
+    width: 400px;
+    height: 500px;
+    color: white;
+    border-radius: 20px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+    cursor: pointer;
+    padding: 10px;
+}
+
+.card img {
+    border-radius: 10px;
+    object-fit: cover;
+    overflow: hidden;
+    width: 100%;
+}
+
+.wrapper {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    z-index: 50;
+}
+
+.card:hover {
+    background: rgba(43, 43, 43);
+}
+
+.card1::before {
+    cursor: pointer;
+    padding: 10px;
+    position: absolute;
+    background-color: red;
+    content: '';
+    z-index: -1;
+    width: 398px;
+    height: 499px;
+    border-radius: 20px;
+    transition: all .2s ease-in-out;
+    animation: animate1 2s infinite linear;
+}
+
+@keyframes animate1 {
+    50% {
+        filter: hue-rotate(360deg);
+    }
+}
+
+.card1:hover::before {
+    width: 405px;
+    height: 505px;
+}
+
+.card2 {
+    overflow: hidden;
+}
+
+.card2::before {
+    position: absolute;
+    background-color: red;
+    content: '';
+    rotate: 40deg;
+    width: 150px;
+    height: 200%;   
+}
+
+.card2:hover::before {
+    animation: animate2 2s infinite linear;
+}
+
+@keyframes animate2 {
+    0% {
+        rotate: 40deg;
+    }
+    50% {
+        filter: hue-rotate(360deg);
+    }
+    100% {
+        rotate: 400deg;
+    }
+}
+
+.card2::after {
+    inset: 5px;
+    position: absolute;
+    border-radius: 15px;
+    content: '';
+    background: rgb(32, 32, 32);
+    transition: all .1s ease-in-out;
+}
+
+.card2:hover::after {
+    background: rgba(43, 43, 43);
+}
