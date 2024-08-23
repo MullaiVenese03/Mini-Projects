@@ -67,19 +67,33 @@ It is a simple yet effective project that features a card with user details. Whe
   ![Logo](Demo_images/mini-project-5.1.png)
   ![Logo](Demo_images/mini-project-5.2.png)
 
-  ### 6. Gallery
+### 6. Gallery
 
-  This project is a responsive image gallery that adapts seamlessly to different screen sizes. The gallery displays images in an organized format, ensuring they look great on any device.
+This project is a responsive image gallery that adapts seamlessly to different screen sizes. The gallery displays images in an organized format, ensuring they look great on any device.
 
-  - **Responsive Design:** The gallery layout adjusts dynamically to various screen sizes, providing an optimal viewing experience on both desktop and mobile devices.
-  - **Image Handling:** Images are displayed in a responsive format, scaling appropriately to maintain quality and clarity.
-  - **User-Friendly Interface:** The gallery is designed to be easy to navigate, with a clean and intuitive layout.
-  - **Customization:** The gallery’s layout, styling, and image handling can be customized to suit different projects or preferences.
-  - **Use Case:** Perfect for portfolios, product showcases, or any website that needs a visually appealing way to display images.
+- **Responsive Design:** The gallery layout adjusts dynamically to various screen sizes, providing an optimal viewing experience on desktop and mobile devices.
+- **Image Handling:** Images are displayed in a responsive format, scaling appropriately to maintain quality and clarity.
+- **User-Friendly Interface:** The gallery is designed to be easy to navigate, with a clean and intuitive layout.
+- **Customization:** The gallery’s layout, styling, and image handling can be customized to suit different projects or preferences.
+- **Use Case:** Perfect for portfolios, product showcases, or any website that needs a visually appealing way to display images.
  
-    ![Logo](Demo_images/mini-project-6.1.png)
-    ![Logo](Demo_images/mini-project-6.2.png)
-    ![Logo](Demo_images/mini-project-6.3.png)
+  ![Logo](Demo_images/mini-project-6.1.png)
+  ![Logo](Demo_images/mini-project-6.2.png)
+  ![Logo](Demo_images/mini-project-6.3.png)
+
+### 7. Animation Card
+
+This project features interactive cards with animated border effects, creating a visually appealing and engaging user experience.
+
+- **Animated Borders:** Each card includes unique border animations that trigger on hover, adding a dynamic and modern feel.
+- **Interactive Design:** The hover effects enhance user interaction, making the cards visually appealing and engaging.
+- **Customization:** Border animations and styles can be easily modified to fit different design themes or branding requirements.
+- **Responsive Layout:** Cards are designed to be fully responsive, ensuring they look great on all devices and screen sizes.
+- **Use Case:** Ideal for portfolios, feature highlights, service offerings, or any website section that benefits from eye-catching design elements.
+   
+  ![Logo](Demo_images/mini-project-7.1.png)
+  ![Logo](Demo_images/mini-project-7.2.png)
+  ![Logo](Demo_images/mini-project-7.3.png)
 
 ## Getting Started
 
