@@ -54,7 +54,7 @@ body {
 }
 
 .right-slider>div {
-    height: 917px;
+    height: 100vh;
     width: 1500px;
 }
 
